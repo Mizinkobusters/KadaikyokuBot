@@ -475,3 +475,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#ignore token json file
+KadaikyokuBot/appsettings.json
+KadaikyokuBot/appsettings.Development.json
