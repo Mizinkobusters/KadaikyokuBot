@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KadaikyokuBot", "KadaikyokuBot\KadaikyokuBot.csproj", "{0E415288-C68F-42BD-8012-E439765C509A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E415288-C68F-42BD-8012-E439765C509A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E415288-C68F-42BD-8012-E439765C509A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E415288-C68F-42BD-8012-E439765C509A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E415288-C68F-42BD-8012-E439765C509A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236CCFDD-2185-4523-8F2A-1B998C367E37}
+	EndGlobalSection
+EndGlobal
